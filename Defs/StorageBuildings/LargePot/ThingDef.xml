@@ -20,6 +20,7 @@
 			<Mass>8</Mass>
 		</statBases>
 		<building>
+			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
 			<maxItemsInCell>3</maxItemsInCell>
 			<fixedStorageSettings>
 				<filter>

@@ -28,6 +28,7 @@
 		</stuffCategories>
 		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
 		<building>
+			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
 			<maxItemsInCell>3</maxItemsInCell>
 			<fixedStorageSettings>
 				<filter>

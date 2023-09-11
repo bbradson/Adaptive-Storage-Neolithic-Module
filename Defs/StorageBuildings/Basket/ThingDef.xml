@@ -23,6 +23,7 @@
 		<costStuffCount>20</costStuffCount>
 		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
 		<building>
+			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
 			<maxItemsInCell>2</maxItemsInCell>
 			<fixedStorageSettings>
 				<filter>
