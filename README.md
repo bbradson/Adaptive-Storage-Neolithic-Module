@@ -61,7 +61,9 @@ A: WIP. Stay tuned.
   
 ![](https://i.imgur.com/bLKSa2W.png)  
   
-[LINKS]  
+Chinese: https://steamcommunity.com/sharedfiles/filedetails/?id=3050506223  
+German: https://steamcommunity.com/sharedfiles/filedetails/?id=3115381045  
+A French translation by [Elzetia](https://github.com/elzetia) is integrated.  
   
 ![](https://i.imgur.com/wR1GLB9.png)  
   
