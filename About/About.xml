@@ -10,10 +10,13 @@
 
 	<packageId>adaptive.storage.neolithic</packageId>
 
+	<modIconPath IgnoreIfNoMatchingField="True">ASNeolithic/ModIcon</modIconPath>
+
 	<description>Adaptive Storage - Neolithic is a mod that brings fancy new ways for players to expand their idea of item storages! This module covers the neolithic tech level and includes a good selection of storage containers to choose from to fulfill your needs.</description>
 
 	<supportedVersions>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
 
 	<loadAfter>
