@@ -4,11 +4,11 @@
 		<label>bundle</label>
 		<graphicData>
 			<graphicClass>Graphic_Multi</graphicClass>
-			<drawSize>(1.9,1.9)</drawSize>
+			<drawSize>(2,2)</drawSize>
 		</graphicData>
 		<description>A couple of textiles stacked upon each other into a neat pile.</description>
 		<fillPercent>0.20</fillPercent>
-		<uiIconScale>1.4</uiIconScale>
+		<uiIconScale>1.1</uiIconScale>
 		<size>(1,1)</size>
 		<statBases>
 			<MaxHitPoints>40</MaxHitPoints>
@@ -35,7 +35,7 @@
 		<graphicData>
 			<texPath>ASNeolithic/TextileBundle/TextileBundleFabrica</texPath>
 		</graphicData>
-		<uiIconPath>ASNeolithic/TextileBundle/TextileBundleFabricc_south</uiIconPath>
+		<uiIconPath>ASNeolithic/TextileBundle/TextileBundleFabric_UI_Icon</uiIconPath>
 		<stuffCategories>
 			<li>Fabric</li>
 		</stuffCategories>
@@ -45,7 +45,7 @@
 		<graphicData>
 			<texPath>ASNeolithic/TextileBundle/TextileBundleLeathera</texPath>
 		</graphicData>
-		<uiIconPath>ASNeolithic/TextileBundle/TextileBundleLeatherc_south</uiIconPath>
+		<uiIconPath>ASNeolithic/TextileBundle/TextileBundleLeather_UI_Icon</uiIconPath>
 		<stuffCategories>
 			<li>Leathery</li>
 		</stuffCategories>

@@ -6,12 +6,12 @@
 		<graphicData>
 			<texPath>ASNeolithic/WoodPile/WoodPilea</texPath>
 			<graphicClass>Graphic_Multi</graphicClass>
-			<drawSize>(1.9,1.9)</drawSize>
+			<drawSize>(2,2)</drawSize>
 		</graphicData>
 		<description>A couple of rough looking logs thrown upon each other into a pile.</description>
 		<fillPercent>0.30</fillPercent>
-		<uiIconPath>ASNeolithic/WoodPile/WoodPilec_south</uiIconPath>
-		<uiIconScale>1.4</uiIconScale>
+		<uiIconPath>ASNeolithic/WoodPile/WoodPile_UI_Icon</uiIconPath>
+		<uiIconScale>1.1</uiIconScale>
 		<size>(1,1)</size>
 		<statBases>
 			<MaxHitPoints>80</MaxHitPoints>

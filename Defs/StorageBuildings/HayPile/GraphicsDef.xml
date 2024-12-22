@@ -9,7 +9,7 @@
 					<texPath>ASNeolithic/HayPile/HayPileStage1</texPath>
 					<graphicClass>Graphic_Single</graphicClass>
 					<shaderType>CutoutComplex</shaderType>
-					<drawSize>(2,2)</drawSize>
+					<drawSize>(3,3)</drawSize>
 					<drawRotated>false</drawRotated>
 				</graphicData>
 			</li>
@@ -18,7 +18,7 @@
 					<texPath>ASNeolithic/HayPile/HayPileStage2</texPath>
 					<graphicClass>Graphic_Single</graphicClass>
 					<shaderType>CutoutComplex</shaderType>
-					<drawSize>(2,2)</drawSize>
+					<drawSize>(3,3)</drawSize>
 					<drawRotated>false</drawRotated>
 				</graphicData>
 				<minimumStackCount>2</minimumStackCount>
@@ -28,7 +28,7 @@
 					<texPath>ASNeolithic/HayPile/HayPileStage3</texPath>
 					<graphicClass>Graphic_Single</graphicClass>
 					<shaderType>CutoutComplex</shaderType>
-					<drawSize>(2,2)</drawSize>
+					<drawSize>(3,3)</drawSize>
 					<drawRotated>false</drawRotated>
 				</graphicData>
 				<minimumStackCount>6</minimumStackCount>

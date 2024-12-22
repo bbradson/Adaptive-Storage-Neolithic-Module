@@ -10,7 +10,7 @@
 		<description>A stack of stone chunks, made from chunks, supporting chunks. Easy to make and quite effective as cover.</description>
 		<fillPercent>0.50</fillPercent>
 		<uiIconPath>ASNeolithic/ChunkStorage/StoneChunksStage3_south</uiIconPath>
-		<uiIconScale>1.6</uiIconScale>
+		<uiIconScale>1.4</uiIconScale>
 		<size>(2,1)</size>
 		<statBases>
 			<MaxHitPoints>150</MaxHitPoints>
