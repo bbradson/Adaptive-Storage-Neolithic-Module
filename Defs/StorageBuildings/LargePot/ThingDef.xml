@@ -37,10 +37,6 @@
 			<paintable>true</paintable>
 		</building>
 		<!-- designatorDropdown>ASNeolithicLargePot</designatorDropdown -->
-		<minifiedDef>MinifiedThing</minifiedDef>
-		<thingCategories>
-			<li>BuildingsFurniture</li>
-		</thingCategories>
 	</ThingDef>
 
 	<ThingDef ParentName="ASNeolithicLargePotThingBase">

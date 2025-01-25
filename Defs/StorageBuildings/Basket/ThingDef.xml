@@ -35,10 +35,6 @@
 			</fixedStorageSettings>
 			<paintable>true</paintable>
 		</building>
-		<minifiedDef>MinifiedThing</minifiedDef>
-		<thingCategories>
-			<li>BuildingsFurniture</li>
-		</thingCategories>
 	</ThingDef>
 
 	<ThingDef ParentName="ASNeolithicBasketThingBase">
