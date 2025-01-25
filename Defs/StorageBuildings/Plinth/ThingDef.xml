@@ -13,19 +13,18 @@
 		<size>(1,1)</size>
 		<rotatable>false</rotatable>
 		<statBases>
-			<MaxHitPoints>80</MaxHitPoints>
-			<WorkToBuild>21600</WorkToBuild>
-			<Beauty>30</Beauty>
-			<Mass>16</Mass>
+			<MaxHitPoints>200</MaxHitPoints>
+			<WorkToBuild>4500</WorkToBuild>
+			<Beauty>35</Beauty>
+			<Flammability>1</Flammability>
 		</statBases>
 		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
 		<building>
 			<maxItemsInCell>1</maxItemsInCell>
 			<fixedStorageSettings>
 				<filter>
-					<disallowNotEverStorable>true</disallowNotEverStorable>
 					<categories>
-						<li>Root</li> <!-- everything -->
+						<li>Root</li>
 					</categories>
 				</filter>
 			</fixedStorageSettings>
@@ -54,7 +53,7 @@
 		</graphicData>
 		<uiIconPath>ASNeolithic/Plinth/WoodenPlinth</uiIconPath>
 		<statBases>
-			<Flammability>1</Flammability>
+			<Mass>8</Mass>
 		</statBases>
 		<costStuffCount>40</costStuffCount>
 		<stuffCategories>
@@ -69,12 +68,11 @@
 		</graphicData>
 		<uiIconPath>ASNeolithic/Plinth/StonePlinth</uiIconPath>
 		<statBases>
-			<Flammability>0</Flammability>
+			<Mass>20</Mass>
 		</statBases>
 		<costStuffCount>2</costStuffCount>
 		<stuffCategories>
 			<li>ASFStoneChunks</li>
 		</stuffCategories>
-		<!-- designatorDropdown>ASNeolithicPlinthStone</designatorDropdown -->
 	</ThingDef>
 </Defs>

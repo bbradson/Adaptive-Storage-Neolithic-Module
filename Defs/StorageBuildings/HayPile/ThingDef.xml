@@ -17,25 +17,25 @@
 		<size>(2,1)</size>
 		<rotatable>false</rotatable>
 		<statBases>
-			<MaxHitPoints>30</MaxHitPoints>
-			<WorkToBuild>300</WorkToBuild>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkToBuild>100</WorkToBuild>
 			<Flammability>2</Flammability>
 			<Beauty>-2</Beauty>
-			<Mass>3</Mass>
+			<Mass>2</Mass>
+			<Cleanliness>-0.1</Cleanliness>
 		</statBases>
 		<stuffCategories>
 			<li>Woody</li>
 		</stuffCategories>
-		<costStuffCount>10</costStuffCount>
+		<costStuffCount>5</costStuffCount>
 		<costList>
-			<Hay>75</Hay>
+			<Hay>15</Hay>
 		</costList>
 		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
 		<building>
-			<maxItemsInCell>3</maxItemsInCell>
+			<maxItemsInCell>4</maxItemsInCell>
 			<fixedStorageSettings>
 				<filter>
-					<disallowNotEverStorable>true</disallowNotEverStorable>
 					<thingDefs>
 						<li>Hay</li>
 					</thingDefs>

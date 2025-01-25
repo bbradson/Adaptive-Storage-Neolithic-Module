@@ -14,10 +14,10 @@
 		<uiIconScale>1.4</uiIconScale>
 		<size>(2,1)</size>
 		<statBases>
-			<MaxHitPoints>150</MaxHitPoints>
-			<WorkToBuild>1200</WorkToBuild>
+			<MaxHitPoints>220</MaxHitPoints>
+			<WorkToBuild>100</WorkToBuild>
 			<Flammability>0</Flammability>
-			<Beauty>-16</Beauty>
+			<Beauty>-8</Beauty>
 			<Cleanliness>-2</Cleanliness>
 			<Mass>40</Mass>
 		</statBases>
@@ -27,7 +27,7 @@
 		</stuffCategories>
 		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
 		<building>
-			<maxItemsInCell>3</maxItemsInCell>
+			<maxItemsInCell>4</maxItemsInCell>
 		</building>
 		<modExtensions>
 			<li Class="AdaptiveStorage.Extension">

@@ -14,21 +14,20 @@
 		<uiIconScale>1.1</uiIconScale>
 		<size>(1,1)</size>
 		<statBases>
-			<MaxHitPoints>80</MaxHitPoints>
-			<WorkToBuild>300</WorkToBuild>
+			<MaxHitPoints>75</MaxHitPoints>
+			<WorkToBuild>200</WorkToBuild>
 			<Flammability>1</Flammability>
-			<Beauty>-2</Beauty>
-			<Mass>8</Mass>
+			<Beauty>0.5</Beauty>
+			<Mass>4</Mass>
 		</statBases>
 		<stuffCategories>
 			<li>Woody</li>
 		</stuffCategories>
-		<costStuffCount>20</costStuffCount>
+		<costStuffCount>10</costStuffCount>
 		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
 		<building>
-			<maxItemsInCell>3</maxItemsInCell>
+			<maxItemsInCell>4</maxItemsInCell>
 		</building>
-		<!-- designatorDropdown>ASNeolithicWoodPile</designatorDropdown -->
 		<modExtensions>
 			<li Class="AdaptiveStorage.Extension">
 				<lockStorageSettingsToStuff>true</lockStorageSettingsToStuff>

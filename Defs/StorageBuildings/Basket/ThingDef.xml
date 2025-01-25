@@ -14,23 +14,32 @@
 		<uiIconScale>1.2</uiIconScale>
 		<size>(1,1)</size>
 		<statBases>
-			<MaxHitPoints>50</MaxHitPoints>
-			<WorkToBuild>900</WorkToBuild>
+			<MaxHitPoints>30</MaxHitPoints>
+			<WorkToBuild>350</WorkToBuild>
 			<Flammability>1</Flammability>
-			<Beauty>0</Beauty>
-			<Mass>8</Mass>
+			<Beauty>0.5</Beauty>
+			<Mass>2</Mass>
 		</statBases>
-		<costStuffCount>20</costStuffCount>
+		<costStuffCount>5</costStuffCount>
 		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
 		<building>
-			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
 			<maxItemsInCell>2</maxItemsInCell>
 			<fixedStorageSettings>
 				<filter>
-					<disallowNotEverStorable>true</disallowNotEverStorable>
 					<categories>
-						<li>Root</li> <!-- Root means everything -->
+						<li>Root</li>
 					</categories>
+					<disallowedCategories>
+						<li>Chunks</li>
+						<li>Plants</li>
+						<li>Buildings</li>
+					</disallowedCategories>
+					<disallowedThingDefs MayRequire="Ludeon.RimWorld.Biotech">
+						<li MayRequire="Ludeon.RimWorld.Biotech">Wastepack</li>
+					</disallowedThingDefs>
+					<specialFiltersToDisallow>
+						<li>AllowLargeCorpses</li>
+					</specialFiltersToDisallow>
 				</filter>
 			</fixedStorageSettings>
 			<paintable>true</paintable>

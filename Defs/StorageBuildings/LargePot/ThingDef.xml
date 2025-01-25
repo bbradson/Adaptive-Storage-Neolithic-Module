@@ -15,16 +15,14 @@
 		<size>(1,1)</size>
 		<statBases>
 			<MaxHitPoints>80</MaxHitPoints>
-			<WorkToBuild>600</WorkToBuild>
-			<Beauty>-2</Beauty>
-			<Mass>8</Mass>
+			<WorkToBuild>400</WorkToBuild>
+			<Beauty>0.5</Beauty>
+			<Flammability>1</Flammability>
 		</statBases>
 		<building>
-			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
 			<maxItemsInCell>3</maxItemsInCell>
 			<fixedStorageSettings>
 				<filter>
-					<disallowNotEverStorable>true</disallowNotEverStorable>
 					<categories>
 						<li>FoodRaw</li>
 					</categories>
@@ -42,23 +40,23 @@
 	<ThingDef ParentName="ASNeolithicLargePotThingBase">
 		<defName>ASNeolithicLargePot</defName>
 		<statBases>
-			<Flammability>1</Flammability>
+			<Mass>4</Mass>
 		</statBases>
 		<stuffCategories>
 			<li>Woody</li>
 		</stuffCategories>
-		<costStuffCount>20</costStuffCount>
+		<costStuffCount>10</costStuffCount>
 	</ThingDef>
 
 	<ThingDef ParentName="ASNeolithicLargePotThingBase" Name="ASNeolithicLargePotStoneThingBase">
 		<defName>ASNeolithicLargePotStone</defName>
+		<statBases>
+			<Mass>10</Mass>
+		</statBases>
 		<graphicData>
 			<texPath>ASNeolithic/LargePot/LargePotBaseStone</texPath>
 		</graphicData>
 		<uiIconPath>ASNeolithic/LargePot/LargePotMixedStone</uiIconPath>
-		<statBases>
-			<Flammability>0</Flammability>
-		</statBases>
 		<stuffCategories>
 			<li>ASFStoneChunks</li>
 		</stuffCategories>

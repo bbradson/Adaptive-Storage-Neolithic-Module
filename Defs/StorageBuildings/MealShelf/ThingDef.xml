@@ -16,23 +16,21 @@
 		<size>(1,1)</size>
 		<rotatable>false</rotatable>
 		<statBases>
-			<MaxHitPoints>80</MaxHitPoints>
-			<WorkToBuild>300</WorkToBuild>
+			<MaxHitPoints>95</MaxHitPoints>
+			<WorkToBuild>500</WorkToBuild>
 			<Flammability>1</Flammability>
-			<Beauty>-2</Beauty>
-			<Mass>8</Mass>
+			<Beauty>0.5</Beauty>
+			<Mass>4</Mass>
 		</statBases>
-		<costStuffCount>20</costStuffCount>
+		<costStuffCount>10</costStuffCount>
 		<stuffCategories>
 			<li>Woody</li>
 		</stuffCategories>
 		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
 		<building>
-			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
 			<maxItemsInCell>3</maxItemsInCell>
 			<fixedStorageSettings>
 				<filter>
-					<disallowNotEverStorable>true</disallowNotEverStorable>
 					<categories>
 						<li>FoodMeals</li>
 					</categories>
