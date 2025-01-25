@@ -7,7 +7,7 @@
 			<graphicClass>Graphic_Multi</graphicClass>
 			<drawSize>(3,2)</drawSize>
 		</graphicData>
-		<label>chunk stack</label>
+		<label>stack</label>
 		<description>A stack of stone chunks, made from chunks, supporting chunks. Easy to make and quite effective as cover.</description>
 		<fillPercent>0.50</fillPercent>
 		<uiIconPath>ASNeolithic/ChunkStorage/StoneChunksStage3_south</uiIconPath>
