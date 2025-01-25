@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<ThingDef ParentName="ASNeolithicStorageBase" Name="ASNeolithicChunkStorageBase" Abstract="True">
+	<ThingDef ParentName="ASNeolithicStorageBase" Name="ASNeolithicChunkStorageBase">
+		<defName>ASNeolithicChunkStorage</defName>
 		<graphicData>
 			<texPath>ASNeolithic/ChunkStorage/StoneChunksStage1</texPath>
 			<graphicClass>Graphic_Multi</graphicClass>
 			<drawSize>(3,2)</drawSize>
 		</graphicData>
-		<label>stacked chunks</label>
+		<label>chunk stack</label>
 		<description>A stack of stone chunks, made from chunks, supporting chunks. Easy to make and quite effective as cover.</description>
 		<fillPercent>0.50</fillPercent>
 		<uiIconPath>ASNeolithic/ChunkStorage/StoneChunksStage3_south</uiIconPath>
@@ -20,10 +21,18 @@
 			<Cleanliness>-2</Cleanliness>
 			<Mass>40</Mass>
 		</statBases>
+		<costStuffCount>2</costStuffCount>
+		<stuffCategories>
+			<li>ASFStoneChunks</li>
+		</stuffCategories>
 		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
 		<building>
 			<maxItemsInCell>3</maxItemsInCell>
 		</building>
-		<designatorDropdown>ASNeolithicChunkStorage</designatorDropdown>
+		<modExtensions>
+			<li Class="AdaptiveStorage.Extension">
+				<lockStorageSettingsToStuff>true</lockStorageSettingsToStuff>
+			</li>
+		</modExtensions>
 	</ThingDef>
 </Defs>

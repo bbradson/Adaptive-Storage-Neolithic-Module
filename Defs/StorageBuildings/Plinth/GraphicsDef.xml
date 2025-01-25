@@ -32,7 +32,9 @@
 
 	<AdaptiveStorage.GraphicsDef ParentName="ASNeolithicPlinthGraphicBase">
 		<defName>ASNeolithicPlinthStone</defName>
-		<targetDefs /> <!-- patched in -->
+		<targetDefs>
+			<li>ASNeolithicPlinthStone</li>
+		</targetDefs>
 		<graphics>
 			<li>
 				<graphicData>

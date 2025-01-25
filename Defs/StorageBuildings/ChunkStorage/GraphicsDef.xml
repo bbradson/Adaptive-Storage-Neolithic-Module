@@ -2,7 +2,9 @@
 <Defs>
 	<AdaptiveStorage.GraphicsDef>
 		<defName>ASNeolithicChunkStorageA</defName>
-		<targetDefs />
+		<targetDefs>
+			<li>ASNeolithicChunkStorage</li>
+		</targetDefs>
 		<graphics>
 			<li>
 				<graphicData>
@@ -35,7 +37,9 @@
 	<!-- disabled for now -->
 	<!-- AdaptiveStorage.GraphicsDef>
 		<defName>ASNeolithicChunkStorageB</defName>
-		<targetDefs />
+		<targetDefs>
+			<li>ASNeolithicChunkStorage</li>
+		</targetDefs>
 		<graphics>
 			<li>
 				<graphicData>

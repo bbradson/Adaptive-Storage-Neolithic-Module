@@ -62,7 +62,8 @@
 		</stuffCategories>
 	</ThingDef>
 
-	<ThingDef ParentName="ASNeolithicPlinthBase" Name="ASNeolithicPlinthStone" Abstract="True">
+	<ThingDef ParentName="ASNeolithicPlinthBase" Name="ASNeolithicPlinthStone">
+		<defName>ASNeolithicPlinthStone</defName>
 		<graphicData>
 			<texPath>ASNeolithic/Plinth/StonePlinth</texPath>
 		</graphicData>
@@ -70,6 +71,10 @@
 		<statBases>
 			<Flammability>0</Flammability>
 		</statBases>
-		<designatorDropdown>ASNeolithicPlinthStone</designatorDropdown>
+		<costStuffCount>2</costStuffCount>
+		<stuffCategories>
+			<li>ASFStoneChunks</li>
+		</stuffCategories>
+		<!-- designatorDropdown>ASNeolithicPlinthStone</designatorDropdown -->
 	</ThingDef>
 </Defs>

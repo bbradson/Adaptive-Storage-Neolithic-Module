@@ -50,7 +50,8 @@
 		<costStuffCount>20</costStuffCount>
 	</ThingDef>
 
-	<ThingDef ParentName="ASNeolithicLargePotThingBase" Name="ASNeolithicLargePotStoneThingBase" Abstract="True">
+	<ThingDef ParentName="ASNeolithicLargePotThingBase" Name="ASNeolithicLargePotStoneThingBase">
+		<defName>ASNeolithicLargePotStone</defName>
 		<graphicData>
 			<texPath>ASNeolithic/LargePot/LargePotBaseStone</texPath>
 		</graphicData>
@@ -58,6 +59,9 @@
 		<statBases>
 			<Flammability>0</Flammability>
 		</statBases>
-		<designatorDropdown>ASNeolithicLargePot</designatorDropdown>
+		<stuffCategories>
+			<li>ASFStoneChunks</li>
+		</stuffCategories>
+		<costStuffCount>1</costStuffCount>
 	</ThingDef>
 </Defs>
