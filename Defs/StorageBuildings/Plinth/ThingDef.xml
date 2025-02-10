@@ -20,6 +20,7 @@
 		</statBases>
 		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
 		<staticSunShadowHeight>0.5</staticSunShadowHeight>
+		<castEdgeShadows>true</castEdgeShadows>
 		<building>
 			<maxItemsInCell>1</maxItemsInCell>
 			<fixedStorageSettings>

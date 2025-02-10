@@ -19,6 +19,7 @@
 			<Beauty>0.5</Beauty>
 			<Flammability>1</Flammability>
 		</statBases>
+		<castEdgeShadows>true</castEdgeShadows>
 		<building>
 			<maxItemsInCell>3</maxItemsInCell>
 			<fixedStorageSettings>

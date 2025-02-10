@@ -22,6 +22,7 @@
 		</statBases>
 		<costStuffCount>5</costStuffCount>
 		<staticSunShadowHeight>0.5</staticSunShadowHeight>
+		<castEdgeShadows>true</castEdgeShadows>
 		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
 		<building>
 			<maxItemsInCell>2</maxItemsInCell>
