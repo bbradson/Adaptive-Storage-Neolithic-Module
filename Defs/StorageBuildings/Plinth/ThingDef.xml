@@ -19,6 +19,7 @@
 			<Flammability>1</Flammability>
 		</statBases>
 		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+		<staticSunShadowHeight>0.5</staticSunShadowHeight>
 		<building>
 			<maxItemsInCell>1</maxItemsInCell>
 			<fixedStorageSettings>

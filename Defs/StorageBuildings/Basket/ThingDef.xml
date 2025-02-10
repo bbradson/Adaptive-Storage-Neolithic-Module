@@ -21,6 +21,7 @@
 			<Mass>2</Mass>
 		</statBases>
 		<costStuffCount>5</costStuffCount>
+		<staticSunShadowHeight>0.5</staticSunShadowHeight>
 		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
 		<building>
 			<maxItemsInCell>2</maxItemsInCell>

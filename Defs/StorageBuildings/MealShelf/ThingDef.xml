@@ -26,6 +26,7 @@
 		<stuffCategories>
 			<li>Woody</li>
 		</stuffCategories>
+		<staticSunShadowHeight>0.5</staticSunShadowHeight>
 		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
 		<building>
 			<maxItemsInCell>3</maxItemsInCell>
