@@ -3,13 +3,13 @@
 
 	<!-- Basket -->
 	<ASNeolithicBasketWoody.label>panier</ASNeolithicBasketWoody.label>
-	<ASNeolithicBasketWoody.description>Un grand panier fait de bois, de tissus ou de cuir séché pour stocker toutes sortes d'objets différents.</ASNeolithicBasketWoody.description>
+	<ASNeolithicBasketWoody.description>Un grand panier en bois, en tissu ou en cuir séché, destiné à entreposer divers objets.</ASNeolithicBasketWoody.description>
 	<ASNeolithicBasketFabric.label>panier</ASNeolithicBasketFabric.label>
-	<ASNeolithicBasketFabric.description>Un grand panier fait de bois, de tissus ou de cuir séché pour stocker toutes sortes d'objets différents.</ASNeolithicBasketFabric.description>
+	<ASNeolithicBasketFabric.description>Un grand panier en bois, en tissu ou en cuir séché, destiné à entreposer divers objets.</ASNeolithicBasketFabric.description>
 
 	<!-- Haypile -->
-	<ASNeolithicHayPile.label>botte de foin</ASNeolithicHayPile.label>
-	<ASNeolithicHayPile.description>Un tas de foin pour un stockage plus facile.</ASNeolithicHayPile.description>
+	<ASNeolithicHayPile.label>tas de foin</ASNeolithicHayPile.label>
+	<ASNeolithicHayPile.description>Un tas de foin pour faciliter le stockage.</ASNeolithicHayPile.description>
 
 	<!-- Large Pot -->
 	<ASNeolithicLargePot.label>grand pot</ASNeolithicLargePot.label>
@@ -19,26 +19,26 @@
 
 	<!-- MealShelf -->
 	<ASNeolithicMealShelf.label>étagère à repas</ASNeolithicMealShelf.label>
-	<ASNeolithicMealShelf.description>Une étagère de fortune à des fins de stockage de repas.</ASNeolithicMealShelf.description>
+	<ASNeolithicMealShelf.description>Une étagère de fortune servant à entreposer des repas.</ASNeolithicMealShelf.description>
 
 	<!-- Plinth -->
 	<ASNeolithicPlinthWoody.label>socle</ASNeolithicPlinthWoody.label>
-	<ASNeolithicPlinthWoody.description>Un socle en bois avec de belles gravures pour exposer des objets.</ASNeolithicPlinthWoody.description>
+	<ASNeolithicPlinthWoody.description>Un socle de bois brut, orné de belles gravures, pour exposer des objets. Les objets exposés attirent l’attention, et leur beauté ne passe pas inaperçue.</ASNeolithicPlinthWoody.description>
 	<ASNeolithicPlinthStone.label>socle</ASNeolithicPlinthStone.label>
-	<ASNeolithicPlinthStone.description>Un socle en granite brute avec de belles gravures pour exposer des objets.</ASNeolithicPlinthStone.description>
+	<ASNeolithicPlinthStone.description>Un socle de pierre brute, orné de belles gravures, pour exposer des objets. Les objets exposés attirent l’attention, et leur beauté ne passe pas inaperçue.</ASNeolithicPlinthStone.description>
 
 	<!-- Textile Bundle -->
 	<ASNeolithicTextileBundleFabric.label>ballot</ASNeolithicTextileBundleFabric.label>
-	<ASNeolithicTextileBundleFabric.description>Plusieurs textiles empilés les uns sur les autres en une pile soignée.</ASNeolithicTextileBundleFabric.description>
+	<ASNeolithicTextileBundleFabric.description>Un petit tas de textiles soigneusement empilés.</ASNeolithicTextileBundleFabric.description>
 	<ASNeolithicTextileBundleLeather.label>ballot</ASNeolithicTextileBundleLeather.label>
-	<ASNeolithicTextileBundleLeather.description>Plusieurs textiles empilés les uns sur les autres en une pile soignée.</ASNeolithicTextileBundleLeather.description>
+	<ASNeolithicTextileBundleLeather.description>Un petit tas de cuir soigneusement empilé.</ASNeolithicTextileBundleLeather.description>
 
 	<!-- WoodPile -->
-	<ASNeolithicWoodPile.label>fagot</ASNeolithicWoodPile.label>
-	<ASNeolithicWoodPile.description>Quelques bûches à l'aspect brut jetées les unes sur les autres en un tas.</ASNeolithicWoodPile.description>
+	<ASNeolithicWoodPile.label>tas de bûches</ASNeolithicWoodPile.label>
+	<ASNeolithicWoodPile.description>Quelques bûches grossières jetées en tas.</ASNeolithicWoodPile.description>
 
 	<!-- ChunkStorage -->
 	<ASNeolithicChunkStorage.label>amas</ASNeolithicChunkStorage.label>
-	<ASNeolithicChunkStorage.description>Un tas de débris, constitué de morceaux et soutenant d'autres morceaux. Facile à réaliser et assez efficace comme couverture.</ASNeolithicChunkStorage.description>
+	<ASNeolithicChunkStorage.description>Un amas de blocs de pierre qui en soutient d’autres. Facile à construire et assez efficace comme couvert.</ASNeolithicChunkStorage.description>
 
 </LanguageData>
