@@ -6,7 +6,7 @@
 			<graphicClass>Graphic_Multi</graphicClass>
 			<drawSize>(2,2)</drawSize>
 		</graphicData>
-		<description>A couple of textiles stacked upon each other into a neat pile.</description>
+		<description>A few folded lengths of cloth, stacked into a neat pile.</description>
 		<fillPercent>0.20</fillPercent>
 		<uiIconScale>1.1</uiIconScale>
 		<size>(1,1)</size>
